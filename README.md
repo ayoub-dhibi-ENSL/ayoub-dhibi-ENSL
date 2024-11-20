@@ -1,11 +1,11 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Compressive Raman Spectroscopy
 - 🌱 I’m currently learning Physics
 - 📫 How to reach me: ayoub.dhibi@ens-lyon.fr
 <!--
 **ayoub-dhibi-ENSL/ayoub-dhibi-ENSL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- 🔭 I’m currently working on Compressive Raman Spectroscopy
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
