@@ -1,14 +1,13 @@
 # 👋 Hi, I'm Ayoub  
 
  **M2 Complex Systems student at ENS de Lyon**  
- Passionate about **quantitative research**, **statistical physics**, and **machine learning**  
+ Passionate about **statistical physics**, and **machine learning**  
 
 ---
 
 ### ☆ What I’m Working On
-- Modeling the **Bitcoin blockchain** as a dynamic graph using **complex network theory** and **graph neural networks**  
+- Modeling the **Bitcoin blockchain** as a dynamic graph using **complex network theory**. 
 - Exploring **stochastic modeling**, **statistical inference**, and **ML for dynamical systems**  
-- Preparing for a **quantitative research/ machine learning research internship (Jan–Jul 2026)** 
 
 ---
 
@@ -22,12 +21,7 @@
 ### ☆ Tech & Tools
 `Python` · `PyTorch` · `NumPy` · `SciPy` · `scikit-learn` · `Pandas` · `Git` · `Unix` · `Apache Spark`  
 
-Interested in **statistical physics**, **scientific software engineering**, **agentic AI**, and **quant finance applications**  
-
----
-
-### ☆ Languages
-🇫🇷 French (Native) · 🇬🇧 English (C1) · 🇪🇸 Spanish (B2) · 🇮🇹 Italian (A1)
+Interested in **statistical physics**, **scientific software engineering**, **agentic AI**, and **machine learning**  
 
 ---
 
